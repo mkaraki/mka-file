@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.89
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "libmkafile", "libmkafile\libmkafile.csproj", "{9F0E1FE4-0CEF-4509-A1B8-26ACE84C710C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mkafileEditor", "mkafileEditor\mkafileEditor.csproj", "{6ABA81FF-13F5-4AC3-92AB-5428EC5C590C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F0E1FE4-0CEF-4509-A1B8-26ACE84C710C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0E1FE4-0CEF-4509-A1B8-26ACE84C710C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0E1FE4-0CEF-4509-A1B8-26ACE84C710C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0E1FE4-0CEF-4509-A1B8-26ACE84C710C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ABA81FF-13F5-4AC3-92AB-5428EC5C590C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABA81FF-13F5-4AC3-92AB-5428EC5C590C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABA81FF-13F5-4AC3-92AB-5428EC5C590C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABA81FF-13F5-4AC3-92AB-5428EC5C590C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {383FDD67-2067-470A-BA5E-E9E0B5991D16}
+	EndGlobalSection
+EndGlobal
